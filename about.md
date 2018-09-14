@@ -20,7 +20,7 @@ Like to Ping us? Great! Visit our Contact Us page
 Please be free to send us your queries and suggestions. Your suggestion is our next update!!
 Mail us here: "**[Mail to](mailto:info@getidea.me)**"
 
-   **[Facebook](https://facebook.com/gettidea) | [Twitter](https://twitter.com/gettidea) | [Instagram](https://instagram.com/gettidea)**
+   [Facebook](https://facebook.com/gettidea) | [Twitter](https://twitter.com/gettidea) | [Instagram](https://instagram.com/gettidea)
 
   
 
