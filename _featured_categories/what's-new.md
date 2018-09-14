@@ -1,7 +1,7 @@
 ---
 layout: list
 title: What's New
-slug: what's-new
+slug: what's new
 menu: true
 order: 1
 description: >
