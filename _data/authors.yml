@@ -2,8 +2,8 @@
 # Must be the same as `author` in `_config.yml`.
 # Change `author1` to your shortname.
 author1:
-  name:              KD
-  email:             xy@datamail.in
+  name:              Vishnu Prasath
+  email:             vshnu7@hotmail.com
 
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
@@ -11,14 +11,17 @@ author1:
     A tech enthusiast and electronic hobbyist who likes to stay updated on latest technological developments..
 
     [Facebook][fb]
-    -- or --
+    --
     [Twitter][tw]
+    --
+    [Instagram][is]
 
-    [fb]: https://facebook.com/kdcud
-    [tw]: https://twitter.com/dkaarthik
+    [fb]: https://facebook.com/vizjack
+    [tw]: https://twitter.com/vshnu12
+    [is]: https://instagram.com/prasath_vshnu
   # This photo will be used in the about section
   picture:
-    path:            https://secure.gravatar.com/avatar/5a621643b01a4f99239190d5c6aec450/128x128
+    path:            https://secure.gravatar.com/avatar/5a621643b01a4f99239190d5c6aec450
     # srcset is optional, but can be used to provide higher res versions for retina displays
     srcset:
       1x:            https://placehold.it/128x128
