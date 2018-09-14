@@ -270,7 +270,7 @@ plugins:
 # google_site_verification: <verification-id>
 # -- or --
 # webmaster_verifications:
-   google:              FzWoNuDvMd-mO21_w9XkC3U_MiwB_Js_Bl4vIdp-Nf4
+google:              FzWoNuDvMd-mO21_w9XkC3U_MiwB_Js_Bl4vIdp-Nf4
 #   bing:                <verification-id>
 #   alexa:               <verification-id>
 #   yandex:              <verification-id>
