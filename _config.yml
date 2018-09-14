@@ -271,9 +271,9 @@ plugins:
 # -- or --
 # webmaster_verifications:
 google:              FzWoNuDvMd-mO21_w9XkC3U_MiwB_Js_Bl4vIdp-Nf4
-#   bing:                <verification-id>
+bing:                485EE434F790E110EFA81853B4A580F8
+yandex:              bb865789d953d227
 #   alexa:               <verification-id>
-#   yandex:              <verification-id>
 
 # Used for Twitter cards
 # twitter:
