@@ -1,1 +1,1 @@
-# GetIdea
+# [GetIdea](https://getidea.me)
