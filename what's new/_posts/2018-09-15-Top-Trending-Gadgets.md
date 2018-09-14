@@ -13,7 +13,3 @@ description: >
   Gadgets are very useful in day-to-day basis. They make things simpler by performing smart activities out of which we have listed out Top 10 must have Gadgets for daily basis. Grab a gadget and feel the experience.
 
 ##10.Yet to be published.....
-
-
-
-   
