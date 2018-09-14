@@ -4,8 +4,8 @@ title: Top Trending Gadgets in 2018
 published: true
 description: >
   There are plenty of Gadgets available in today's world. Check out the top Trending Gadgets available in today's Market.
-  
 ---
+
 
 ![Gadget](/assets/img/blog/gadget.jpg)
 
