@@ -1,6 +1,8 @@
+# **Privacy & Cookies Policy**
+
 Last updated: June 25, 2018
 
-GetIdea (“us”, “we”, or “our”) uses cookies on the https://getidea.me/ website (the “Service”). By using the Service, you consent to the use of cookies.
+[GetIdea](https://getidea.me/) (“us”, “we”, or “our”) uses cookies on the https://getidea.me/ website (the “Service”). By using the Service, you consent to the use of cookies.
 
 Our Cookies Policy explains what cookies are, how we use cookies, how third-parties we may partner with may use cookies on the Service, your choices regarding cookies and further information about cookies.
 
@@ -48,17 +50,17 @@ Please note, however, that if you delete cookies or refuse to accept them, you m
 You can learn more about cookies and the following third-party websites:
 
 ## AllAboutCookies
-       http://www.allaboutcookies.org/
+       "http://www.allaboutcookies.org/"
 
-Network Advertising Initiative
-       http://www.networkadvertising.org/   
+## Network Advertising Initiative
+       "http://www.networkadvertising.org/"   
      
 # What are your choices regarding annoying cookie banners?
 
 You can get rid of annoying cookie banners on many sites by using a browser addon to automatically accept cookies:
 
 ## I Don’t Care About Cookies
-      https://www.i-dont-care-about-cookies.eu/
+      "https://www.i-dont-care-about-cookies.eu/"
 
 ## CookiesOK
-      https://cookiesok.com/
+      "https://cookiesok.com/"
