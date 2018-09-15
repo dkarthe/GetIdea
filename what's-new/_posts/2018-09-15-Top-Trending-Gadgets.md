@@ -70,3 +70,24 @@ Cool Isn't it? Grab one here :
  [QC]: https://goo.gl/1oPSJA
 
 ## 4. TileMate
+
+![Gadget](/assets/img/blog/tilemate.jpg)
+
+Keep track of your keys, bags or whatever else you can think of with Tile Mate, the little *Bluetooth* tracker that easily attaches to just about anything.
+
+**How it works**
+
+
+  * *Find your things fast*
+
+    To find anything you put a Tile on, just open the app. Ring it if it's nearby. Check the map for its last known location. Or ask the Tile community to help you find it.
+
+  * *Find your phone*
+
+    Phones are easy to misplace. Tile makes them easy to find. Just press your Tile twice to make your phone ring even when it's on silent. You can even log into our website to find it on a map or make it ring.  
+
+**Compatibility**
+
+*iOS:* iPhone (Released 2011 or later), iPad (Released 2012 or later), iPad Mini, iPod Touch, Apple Watch
+
+*Android:* Samsung Galaxy (S5 or later), Samsung Note (4 or later), Nexus (4 or later), OnePlus (one or later), HTC one (M8 or later), Motorola Moto X, and most Android devices equipped with Android 4.4 (Kitkat) or later and Bluetooth 4.0 or later.
