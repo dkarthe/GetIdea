@@ -71,7 +71,7 @@ date_formats:
   related_post:        '%d %b %Y'
   list_group_by:       ''
   list_entry:          '%d %b'
-  project:             '%Y'
+  project:             ''
   projects_group_by:   ''
   resume:              '%b %Y'
 
