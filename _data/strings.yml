@@ -69,7 +69,7 @@ from_to_separator:     '–'
 date_formats:
   post:                ''
   related_post:        ''
-  list_group_by:       ''
+  list_group_by:       '%b'
   list_entry:          '%d %b'
   project:             ''
   projects_group_by:   ''
