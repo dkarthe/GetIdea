@@ -53,3 +53,7 @@ Cool Isn't it? Grab one here :
 [Buy Xenxo S-Ring][XR]
 
 [XR]: https://www.xenxo.pro/
+
+## 3. QooCam: World’s First interchangeable 4K 360° & 3D Camera
+
+![Gadget](/assets/img/blog/qoo.jpg)
