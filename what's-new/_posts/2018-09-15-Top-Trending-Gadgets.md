@@ -45,7 +45,7 @@ Check out the features below:
  * Attend a phone call.
  * Has Gesture control.
  * Can Snooze/off your alarms.
- * Analyse heath parameters.
+ * Analyse health parameters.
  * Scan and Pay using NFC.
  * Speak out time and lot more features.
 
@@ -54,6 +54,19 @@ Cool Isn't it? Grab one here :
 
 [XR]: https://www.xenxo.pro/
 
-## 3. QooCam: World’s First interchangeable 4K 360° & 3D Camera
+## 3. QooCam World’s First interchangeable 4K 360° & 3D Camera
 
 ![Gadget](/assets/img/blog/qoo.jpg)
+
+ As the name suggests, **Qoocam** is the World's First interchangeable 4K 360° & 3D Camera which can capture 3D VR 360° images and record VR 4K 360° videos.
+
+ It has its *Unique 3 Lenses*, IMU stablizer and cutting edge depthmap tech which includes various features like Featured Refocus, Shake-free, 120FPS, Time-lapse, Live Streaming, And App Editor which is available in various platforms and it even supports video stabilization.
+
+ **Camera Specs:** Three wide-angle lenses with a 216° field of view (FOV) and a f/2.2 aperture. Also with Sony’s CMOS sensor, the camera definition and battery life are improved, making it better than ever.  
+
+ You can have one here @
+ [Buy Qoocam][QC]
+
+ [QC]: https://goo.gl/1oPSJA
+
+## 4. TileMate
