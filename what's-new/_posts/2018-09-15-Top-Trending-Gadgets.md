@@ -91,3 +91,10 @@ Keep track of your keys, bags or whatever else you can think of with Tile Mate, 
 *iOS:* iPhone (Released 2011 or later), iPad (Released 2012 or later), iPad Mini, iPod Touch, Apple Watch
 
 *Android:* Samsung Galaxy (S5 or later), Samsung Note (4 or later), Nexus (4 or later), OnePlus (one or later), HTC one (M8 or later), Motorola Moto X, and most Android devices equipped with Android 4.4 (Kitkat) or later and Bluetooth 4.0 or later.
+
+Fetch your tilemate  @
+[Buy Tilemate][TM]
+
+[TM]: https://www.amazon.in/Tile-Mate-Finder-Anything-4-pack/dp/B01L3VEC94
+
+## 5. Ztylus Switch
