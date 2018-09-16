@@ -9,10 +9,12 @@ description: >
 
 
 ![Gadget](/assets/img/blog/gadget.jpg)
-
+---
 # Top Trending Gadgets
 
-  Gadgets are very useful in day-to-day basis. They make things simpler by performing smart activities out of which we have listed out Top 10 must have Gadgets for daily basis. Grab a gadget and feel the experience.
+  Gadgets are very useful in day-to-day basis. They make things simpler by performing smart activities out of which we have listed out Top must have Gadgets for daily basis. Grab a gadget and feel the experience.
+
+
 
 ## 1. Finger Pow
 
@@ -29,7 +31,7 @@ description: >
 
  [fp]: https://fingerpow.co/
 
-
+---
 ## 2. Xenxo S-Ring
 
 ![Gadget](/assets/img/blog/xenxoring.jpg)
@@ -53,7 +55,7 @@ Cool Isn't it? Grab one here :
 [Buy Xenxo S-Ring][XR]
 
 [XR]: https://www.xenxo.pro/
-
+---
 ## 3. QooCam World’s First interchangeable 4K 360° & 3D Camera
 
 ![Gadget](/assets/img/blog/qoo.jpg)
@@ -68,7 +70,7 @@ Cool Isn't it? Grab one here :
  [Buy Qoocam][QC]
 
  [QC]: https://goo.gl/1oPSJA
-
+---
 ## 4. TileMate
 
 ![Gadget](/assets/img/blog/tilemate.jpg)
@@ -96,7 +98,7 @@ Fetch your tilemate  @
 [Buy Tilemate][TM]
 
 [TM]: https://www.amazon.in/Tile-Mate-Finder-Anything-4-pack/dp/B01L3VEC94
-
+---
 ## 5. Fingerprint Encrypted Pen Drive
 
 ![Gadget](/assets/img/blog/pd.jpg)
@@ -108,7 +110,7 @@ You can get a Secure Pen drive
 *[here][PD]*
 
 [PD]: https://amzn.to/2NF1WyF
-
+---
 ## 6. Flic
 
 ![Gadget](/assets/img/blog/flic.jpg)
@@ -132,7 +134,5 @@ Flic is a simple and stylish wireless button that acts as a shortcut to your *fa
 
   [CF]: https://flic.io/customized-flic
 
-
-
-
-## 10. Ztylus Switch
+---
+Please send us your suggestions and valuable feedback at :               info@getidea.me
