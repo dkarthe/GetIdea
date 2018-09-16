@@ -6,6 +6,7 @@ description: >
 published: true
 ---
 
+![mi](/assets/img/blog/mi.jpg)
 * If you are a salaried or self-employed individual in India, filing income tax returns is very important. The last day to file income tax for FY 2017-2018 is July 31, which is less than a week away. If you haven’t filed your income tax returns yet, and you have a Xiaomi smartphone, there’s a good news for you.
 
 * Xiaomi has now integrated ClearTax into its Mi Calendar app on smartphones that run on the MIUI custom skin. For those unaware, ClearTax is an online portal that helps businesses and individuals to prepare and e-file their income tax returns online. With the ability to file income tax returns from within the Mi Calendar app, Xiaomi wants to ease the process for you.
