@@ -9,7 +9,7 @@ description: >
 
 
 ![Gadget](/assets/img/blog/gadget.jpg)
----
+
 # Top Trending Gadgets
 
   Gadgets are very useful in day-to-day basis. They make things simpler by performing smart activities out of which we have listed out Top must have Gadgets for daily basis. Grab a gadget and feel the experience.
