@@ -13,4 +13,3 @@ Remember the surprise sale we told you about over the weekend that dropped the p
 * Amazon Prime membership unlocks thousands of movies and TV episodes, including “Thursday Night Football”, Amazon Original Series, Prime Video Channels, and ad-free listening to millions of songs with Prime Music.
 * Pick up where you left off. Bring hit shows and movies with you when you travel. Plug Fire TV Stick into any TV’s HDMI port, connect to Wi-Fi, and continue streaming.
 * Play current favorites or quickly discover what to watch next directly from the Home screen.
-
