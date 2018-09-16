@@ -97,4 +97,42 @@ Fetch your tilemate  @
 
 [TM]: https://www.amazon.in/Tile-Mate-Finder-Anything-4-pack/dp/B01L3VEC94
 
-## 5. Ztylus Switch
+## 5. Fingerprint Encrypted Pen Drive
+
+![Gadget](/assets/img/blog/pd.jpg)
+
+
+This is high-speed recognition fingerprint encrypted pen drive with dual storage security. This device has a storage of about **32GB** which is fully secured and *encrypted*, which can only be Decrypted with the respective fingerprint. Weighing a bit less than **10g**, makes you carry all your important files.
+
+You can get a Secure Pen drive
+*[here][PD]*
+
+[PD]: https://amzn.to/2NF1WyF
+
+## 6. Flic
+
+![Gadget](/assets/img/blog/flic.jpg)
+
+**Flic - Complete automation in a single click**
+
+Flic is a simple and stylish wireless button that acts as a shortcut to your *favorite actions* on your smartphone. With one Flic, you can **call a cab**, text your **GPS location** to your loved ones if you’re in distress, or just **turn the on the lights** in your smart home. The **wireless smart button** uses BLE (Bluetooth Low Energy) technology to interact with the device from a distance of up to **150 feet** with an exchangeable battery. You can set each flic to trigger **three different functions; one click, double click and hold**. The functions are easily chosen from the intuitive **Flic app** (available on Android and iOS ).
+* **Features :** Controlled by smartphone application.
+* **Device Compatibility :** iPhone 6, iPhone 6 Plus, iPhone 5/5s, HTC EVO 4G
+* **System Compatibility :** Android 4.4, iOS 7
+* **Power Source :** Batteries
+* **Color :** Black, Blue, Green, Yellow and
+  Custiomised Flics are also available for better user interface.
+
+  Have one here  @
+  [Flic][FC]
+  and
+  [Customised Flic][CF]
+
+  [FC]: https://flic.io/shop
+
+  [CF]: https://flic.io/customized-flic
+
+
+
+
+## 10. Ztylus Switch
