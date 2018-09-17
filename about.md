@@ -1,6 +1,6 @@
 ---
 menu: true
-order: 4
+order: 5
 image: /assets/img/blog/GI.png
 ---
 
@@ -21,9 +21,3 @@ Please be free to send us your queries and suggestions. Your suggestion is our n
 Mail us here: "**[Mail to](mailto:info@getidea.me)**"
 
    [Facebook](https://facebook.com/gettidea) | [Twitter](https://twitter.com/gettidea) | [Instagram](https://instagram.com/gettidea)
-
-  
-
-   
-
-    
