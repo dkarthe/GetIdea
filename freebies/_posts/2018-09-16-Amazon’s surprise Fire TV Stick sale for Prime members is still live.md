@@ -1,8 +1,18 @@
+---
+layout: post
+title: Amazon's Fire stick Giveaway!!!
+published: true
+description: >
+  Amazon's giveaway is now offering a price tag of $24.99 for prime members. Never miss a chance !! Grab 'em now!!
+---
+
+
+
 ![TV](/assets/img/blog/amzntv.jpg)
 
 > We loved with a love that was more than love
 
-Remember the surprise sale we told you about over the weekend that dropped the price of the Fire TV Stick with Alexa Voice Remote to just $24.99 for Prime members only? Well guess what: it’s somehow still going on now. Thousands of our readers have already taken advantage of this limited-time deal, but it’s likely to be over by the end of this week so we wanted to give you one more chance to get in on the action.
+Remember the surprise sale Amazon told you about over the weekend that dropped the price of the Fire TV Stick with Alexa Voice Remote to just $24.99 for Prime members only? Well guess what: it’s somehow still going on now. Thousands of our readers have already taken advantage of this limited-time deal, but it’s likely to be over by the end of this week so we wanted to give you one more chance to get in on the action.
 
 ## Here’s what you need to know from the product page:
 * The next generation of our best-selling Fire TV Stick–now with the Alexa Voice Remote.
