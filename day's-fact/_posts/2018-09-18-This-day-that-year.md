@@ -6,11 +6,11 @@ description: >
   Get the historical facts that happened on this day.
 
 ---
-
+# Check out today's *Historical events* and *Intresting facts* (18 September):
 
 ![Gadget](/assets/img/blog/fact.jpg)
 
-# Check out today's *Historical events* and *Intresting facts* (18 September):
+
 
 ### 1998
 **The Internet Corporation for Assigned Names and Numbers** (ICANN) is founded
@@ -18,57 +18,60 @@ Author Esther Dyson became the **first chairperson** of the now **non-profit org
 
 ### 1973
 **West Germany** adopts the **Deutsche Mark**
-This action replaced the East German Mark and helped complete the economic reunification part of the union between East and West Germany.
+This action replaced the **East German Mark** and helped complete the economic reunification part of the union between **East and West Germany**.
 
 ### 1959
-Vanguard 3 is launched into Earth's orbit
-The geocentric satellite was launched into Earth's orbit by a Vanguard rocket, built by Glenn L. Martin Company, which is now known as Lockheed-Martin.
+**Vanguard 3** is launched into *Earth's orbit*
+The **geocentric satellite** was launched into Earth's orbit by a **Vanguard rocket**, built by **Glenn L. Martin Company**, which is now known as **Lockheed-Martin**.
 
 ### 1934
-USSR joins the League of Nations
+**USSR** joins the **League of Nations**
 It was expelled just a few years later for its aggressive actions towards Finland.
 
 ### 1872
-Oscar II becomes King of Norway and Sweden
-He succeeded his brother Charles XV and IV
+**Oscar II** becomes King of **Norway and Sweden**
+He succeeded his brother **Charles XV and IV**.
 
 ---
+# Births On This Day
 
 ![Gadget](/assets/img/blog/bday.jpg)
 
-# Births On This Day
 
-* **1985** Tomáš Berdych
-*Czech tennis player*
 
-* **1975** Jimmie Johnson
-*American race car driver*
+* **1976** Ronaldo
+*Brazilian footballer*
 
-* **1923** Hank Williams
-*American singer-songwriter, guitarist*
+* **1971** Jada Pinkett Smith
+*American model, actress*
 
-* **1915** M. F. Husain
-*Indian painter, director*
+* **1961** James Gandolfini
+*American actor*
 
-* **1879** Periyar E. V. Ramasamy
-*Indian businessman, politician, activist*
+* **1905** Greta Garbo
+*Swedish actress*
+
+* **1709** Samuel Johnson
+*English author, lexicographer*
+
 ---
-![Gadget](/assets/img/blog/rip.jpg)
 
 # Deaths On This Day
 
-* **1997** Red Skelton
-*American actor, comedian*
+![Gadget](/assets/img/blog/rip.jpg)
 
-* **1996** Spiro Agnew
-*American politician, 39th Vice President of the United States*
+* **1970** Jimi Hendrix
+*American singer-songwriter, guitarist, producer*
 
-* **1994** Karl Popper
-*Austrian/English philosopher*
+* **1961** Dag Hammarskjöld
+*Swedish diplomat, economist, author, 2nd Secretary-General of the United Nations, Nobel Prize Laureate*
 
-* **1948** Ruth Benedict
-*American anthropologist*
+* **1830** William Hazlitt
+*English critic, painter*
 
-* **1179** Hildegard of Bingen
-*German saint, philosopher, composer*
+* **1783** Leonhard Euler
+*Swiss mathematician, physicist*
+
+* **96 AD** Domitian
+*Roman emperor*
 ---
