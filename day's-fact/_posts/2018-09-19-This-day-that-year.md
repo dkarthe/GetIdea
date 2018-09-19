@@ -6,7 +6,7 @@ description: >
   Get the historical facts that happened on this day.
 
 ---
-# Check out today's *Historical events* and *Intresting facts* (18 September):
+# Check out today's *Historical events* and *Intresting facts* (19 September):
 
 ![Fact](/assets/img/blog/fact.jpg)
 
