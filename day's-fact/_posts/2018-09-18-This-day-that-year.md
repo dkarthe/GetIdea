@@ -8,7 +8,7 @@ description: >
 ---
 # Check out today's *Historical events* and *Intresting facts* (18 September):
 
-![Gadget](/assets/img/blog/fact.jpg)
+![Fact](/assets/img/blog/fact.jpg)
 
 
 
@@ -35,7 +35,7 @@ He succeeded his brother **Charles XV and IV**.
 ---
 # Births On This Day
 
-![Gadget](/assets/img/blog/bday.jpg)
+![Bday](/assets/img/blog/bday.jpg)
 
 
 
@@ -58,7 +58,7 @@ He succeeded his brother **Charles XV and IV**.
 
 # Deaths On This Day
 
-![Gadget](/assets/img/blog/rip.jpg)
+![Rip](/assets/img/blog/rip.jpg)
 
 * **1970** Jimi Hendrix
 *American singer-songwriter, guitarist, producer*

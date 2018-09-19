@@ -8,7 +8,7 @@ description: >
 ---
 
 
-![Gadget](/assets/img/blog/fact.jpg)
+![Fact](/assets/img/blog/fact.jpg)
 
 # Check out today's *Historical events* and *Intresting facts* (17 September):
 
@@ -32,7 +32,7 @@ Bloodiest Single Day of the American Civil War takes place
 **Treaty of Fredrikshamn** is signed between **Sweden and Russia**
 Also known as the **Treaty of Hamina**, it concluded the Finnish War and ceded Swedish territories, which later formed **Finland to Russia**.
 ---
-![Gadget](/assets/img/blog/bday.jpg)
+![Bday](/assets/img/blog/bday.jpg)
 
 # Births On This Day
 
@@ -51,7 +51,7 @@ Also known as the **Treaty of Hamina**, it concluded the Finnish War and ceded S
 * **1879** Periyar E. V. Ramasamy
 *Indian businessman, politician, activist*
 ---
-![Gadget](/assets/img/blog/rip.jpg)
+![Rip](/assets/img/blog/rip.jpg)
 
 # Deaths On This Day
 
@@ -70,4 +70,3 @@ Also known as the **Treaty of Hamina**, it concluded the Finnish War and ceded S
 * **1179** Hildegard of Bingen
 *German saint, philosopher, composer*
 ---
-                      
