@@ -1,3 +1,5 @@
+Sitemap: https://getidea.me/sitemap.xml
+Feed: https://getidea.me/feed.xml
 User-agent: Googlebot
 Allow: /
 User-agent: Googlebot-News
@@ -12,4 +14,4 @@ User-agent: Adsbot-Google
 Allow: /
 User-agent: Googlebot-Mobile
 Allow: /
-Sitemap: https://getidea.me/sitemap.xml
+
