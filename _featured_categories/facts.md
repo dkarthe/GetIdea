@@ -1,7 +1,7 @@
 ---
 layout: list
-title: Day's Facts
-slug: Day's Facts
+title: Facts
+slug: facts
 menu: true
 order: 4
 description: >
