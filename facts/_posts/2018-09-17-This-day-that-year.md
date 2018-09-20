@@ -10,7 +10,7 @@ description: >
 
 
 
-# Check out today's *Historical events* and *Intresting facts* (17 September):
+# Facts and Events (17 September):
 
 ![Fact](/assets/img/blog/fact.jpg)
 
