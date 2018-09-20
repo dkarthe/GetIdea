@@ -8,9 +8,11 @@ description: >
 ---
 
 
-![Fact](/assets/img/blog/fact.jpg)
+
 
 # Check out today's *Historical events* and *Intresting facts* (17 September):
+
+![Fact](/assets/img/blog/fact.jpg)
 
 ## 1978
 
