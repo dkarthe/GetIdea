@@ -2,7 +2,7 @@
 layout: post
 title: Flipkart introduces 'Cardless Credit' to help customers buy now and pay later
 description: >
-   The new is meant to help buyers who don't have credit cards, and will offer up to Rs 60,000 in short-term credit to customers.
+   The new feature is meant to help buyers who don't have credit cards, and will offer up to Rs 60,000 in short-term credit to customers.
 published: true
 ---
 ![fk](/assets/img/blog/fk.jpg)
