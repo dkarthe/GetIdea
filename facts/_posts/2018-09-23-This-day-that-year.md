@@ -2,8 +2,9 @@
 layout: post
 title: This day that year
 published: true
-description: |
+description: >
   Get the historical facts that happened on this day.
+keyword: [todays facts,today,history]
 ---
 
 
