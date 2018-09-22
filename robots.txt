@@ -1,17 +1,4 @@
 Sitemap: https://getidea.me/sitemap.xml
 Feed: https://getidea.me/feed.xml
-User-agent: Googlebot
-Allow: /
-User-agent: Googlebot-News
-Allow: /
-User-agent: Googlebot-Video
-Allow: /
-User-agent: NinjaBot
-Allow: /
-User-agent: Mediapartners-Google*
-Allow: /
-User-agent: Adsbot-Google
-Allow: /
-User-agent: Googlebot-Mobile
-Allow: /
+
 
