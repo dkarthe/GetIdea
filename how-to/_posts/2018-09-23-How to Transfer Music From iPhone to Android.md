@@ -4,7 +4,6 @@ title: How to Transfer Music From iPhone to Android
 description: >
     Keep your tunes wherever you roam
 keyword: [itunes,transfer,how to transfer,sync]
-published: true
 ---
 
 ![ap1](/assets/img/blog/ap1.jpg)
