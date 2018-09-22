@@ -1,13 +1,13 @@
 # coding: utf-8
 
 Gem::Specification.new do |spec|
-  spec.name          = "jekyll-theme-hydejack"
-  spec.version       = "8.1.1"
-  spec.authors       = ["Florian Klampfer"]
-  spec.email         = ["mail@qwtel.com"]
+  spec.name          = "GetIdea"
+  spec.version       = "1.1.1"
+  spec.authors       = ["KD"]
+  spec.email         = ["info@getidea.me"]
 
-  spec.summary       = %q{"Best Jekyll Theme by a Mile"}
-  spec.homepage      = "https://hydejack.com/"
+  spec.summary       = %q{"GetIdea"}
+  spec.homepage      = "https://getidea.me/"
   spec.license       = "GPL-3.0"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(assets|_layouts|_includes|_sass|LICENSE|README)}i) }
