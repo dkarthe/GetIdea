@@ -60,7 +60,7 @@ copyright:             >
 #     href:              /cookies-policy/
 
 # Format of the permalinks
-permalink:             pretty
+permalink:             /:title/
 
 # Pagination configuration (used by the `blog` layout)
 paginate:              5
