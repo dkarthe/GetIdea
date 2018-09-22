@@ -1,4 +1,3 @@
 Sitemap: https://getidea.me/sitemap.xml
-Feed: https://getidea.me/feed.xml
 
 
