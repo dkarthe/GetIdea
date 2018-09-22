@@ -1,20 +1,67 @@
----
----
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    {% for post in site.posts %}
-    <url>
-        <loc>{{site.url}}{{ post.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endfor %}
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
-    {% for page in site.pages %}
-    {% if page.layout != nil %}
-    {% if page.layout != 'feed' %}
-    <url>
-        <loc>{{site.url}}{{ page.url | remove: 'index.html' }}</loc>
-    </url>
-    {% endif %}
-    {% endif %}
-    {% endfor %}
+
+<url>
+  <loc>https://getidea.me/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://getidea.me/what-s-new/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/how-to/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/freebies/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/about/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/what's-new/2018-09-15-top-trending-gadgets/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/what's-new/2018-09-14-what's-new-on-whatsapp/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/how-to/2017-10-03-paid-iphone-apps-on-sale-for-free-today/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/freebies/2017-07-27-what's-new-on-whatsapp/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/posts/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://getidea.me/privacy-&amp;-cookies-policy/</loc>
+  <lastmod>2018-09-16T14:40:15+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+
 </urlset>
