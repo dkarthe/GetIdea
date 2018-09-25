@@ -12,7 +12,7 @@ Allow: /
 User-agent:  *
 Disallow: /category/
 Disallow: /page/
-
+Disallow: /pages/
 
 
 
