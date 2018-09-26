@@ -7,6 +7,7 @@ keyword: [screen mirroring,ios screen mirroring,android tv,airscreen]
 author: [author1]
 published: true
 ---
+# How to mirror your Iphone screen to Android TV
 
 ## STEP 1: GET THE APP AND START THE SERVER
 
