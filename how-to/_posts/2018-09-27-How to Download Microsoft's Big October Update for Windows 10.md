@@ -36,9 +36,9 @@ To get started, you’ll need the following:
 * A new “power usage” tab in the Task Manager to see which apps are eating up your laptop’s battery.
 * More built-in emoji. Thanks, Unicode 11.
 
-## Here is how to get the update(1809):
+# Here is how to get the update(1809):
 
-### Preparations
+## Preparations
 You need to download two files to a PC and place them in the same folder.
 
 * Download the [Microsoft’s Media Creation Tool](https://software-download.microsoft.com/download/pr/MediaCreationTool1803.exe) for Windows 10 version 1803. Note that you don't want to execute the tool right away as it only offers version 1803 and not 1809, the version that you are after.
@@ -48,7 +48,7 @@ You need to download two files to a PC and place them in the same folder.
 * Now copy "products.cab", downloaded from Microsoft Windows 10 Media Creation Tool Helper and place the file products.cab in the folder as well.
 * Both files, MediaCreationTool1803.exe and products.cab should now be in the same folder.(The folder which you created in "C:")
 
-### Download Windows 10 version 1809
+## Download Windows 10 version 1809
 Once you are done with the preparations, it is time to start the download of Windows 10 version 1809.
 
 Open an elevated command prompt to get started.
