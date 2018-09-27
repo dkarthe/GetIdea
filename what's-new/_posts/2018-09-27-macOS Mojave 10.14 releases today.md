@@ -46,7 +46,7 @@ published: true
 
 * Apple has improved the way you capture screenshots and make screen recording. Now, when you click — Shift-Command-5 — a new menu appears at the bottom giving you new screen recording tools.
 
-![screenshots](/assets/img/blog/screenshots.png)
+![screenshots](/assets/img/blog/screnshots.png)
 
 * You can take a screenshot of the entire page or select specific area. It is not something new as it was present before as well, but that used to be using different button combinations, now you get a menu at the bottom, letting you choose the specific task of your choice. Once the screenshot is captured, a thumbnail of the same appears on the bottom right corner with an animation. Apple has also added an option to record the screen, which is a new feature.
 ## Group FaceTime
