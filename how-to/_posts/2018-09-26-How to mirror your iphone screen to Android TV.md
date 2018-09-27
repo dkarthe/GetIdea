@@ -9,6 +9,8 @@ published: true
 ---
 # How to mirror your Iphone screen to Android TV
 
+![atv](/assets/img/blog/atv.jpg)
+
 ## STEP 1: GET THE APP AND START THE SERVER
 
 Download and install the AirScreen app on your Android TV.
