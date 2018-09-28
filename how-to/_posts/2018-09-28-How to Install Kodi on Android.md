@@ -15,7 +15,6 @@ published: true
 * However, the Kodi Android wiki FAQ page explains the Android Kodi app is mostly meant for Android-based set-top boxes that spend most of their time connected to a TV and function with a remote control. That said, Kodi still supports many Android devices with an official app available from the Google Play Store.
 
 If your Android smartphone or tablet fits the bill, you're ready to get started.
-
 ## How to Install Kodi on Android
 * For most Android smartphones, the process to install the Kodi app is going to be very simple, and can be done in one of two ways:
   * Launch the Google Play Store app, search for and select the Kodi app, then install it.
@@ -27,7 +26,6 @@ If your Android smartphone or tablet fits the bill, you're ready to get started.
 * Installing Kodi for Android tablets is the same process as it is for smartphones. However, one case where the experience may differ is when the device doesn't have the official Google Play Store app. While this may be rare for smartphones and tablets from major manufacturers, Kodi still has a way for you to install the Android app without the Google Play Store.
 ## How to Install Kodi on Android Without Google Play (Sideloading)
 * For devices that don't have access to the Google Play Store and require sideloading the Kodi app, you'll first need to determine whether your device runs a 32-bit version of Android or a 64-bit version with a 64-bit System-on-a-Chip (SoC). Kodi also has different instructions for devices with Intel SoCs. You can find out more from Kodi's Android FAQ, or read up on mobile processors and SoCs.
-
 ## To install Kodi without Google Play:
 
 * Go to the [Kodi download page](https://kodi.tv/download)
