@@ -15,22 +15,18 @@ published: true
 * Chinese manufacturer *OPPO* decided to launch a new version of *FIND X* with massive *10 GB of RAM* and certified to be the *world's first smartphone with such massive RAM*. According to the updated TENAA listing for the OPPO Find X, there will soon be an OPPO Find X with 10GB of RAM. As you may have guessed, this marks the first time anyone has ever put a *10GB RAM* inside a phone.
 
 ## SPECS:
-
 ### Basic Parameters:
-
 * Processor : Qualcomm Snapdragon 845
 * GPU : Adreno™ 630
 * Battery : 3730mAh with VOOC fast charging support
 * RAM : 10 GB
 * Storage : 256 GB
 ### Display:
-
 * Size : 16.3 cm (6.4")
 * Type : AMOLED
 * Resolution : 2340 x 1080 pixels
 * Colors : 16 million colors
-
-### Camera
+### Camera:
 * Rear : Sensor20-megapixel,16-megapixel
 * Front : Sensor25-megapixel
 * FlashLED : Flash
