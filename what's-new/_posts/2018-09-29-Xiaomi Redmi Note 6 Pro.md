@@ -2,9 +2,15 @@
 layout: post
 title: The Redmi Note 6 Pro is Xiaomi's first phone with four cameras.
 description: >
-   Xiaomi Redmi Note 6 Pro retains the Snapdragon 636, picks up a notch and dual front cameras
-keyword: [Redmi mote 6 pro,Redmi mote 6,note 6 pro,xiaomi redmi note 6 pro]
-author: [author1]
+  Xiaomi Redmi Note 6 Pro retains the Snapdragon 636, picks up a notch and dual
+  front cameras
+keyword:
+  - Redmi mote 6 pro
+  - Redmi mote 6
+  - note 6 pro
+  - xiaomi redmi note 6 pro
+author:
+  - author1
 published: true
 ---
 
@@ -17,18 +23,16 @@ published: true
 * The display is unchanged at *FHD+*, although the notch means the screen resolution is now 2280x1080. There's 2.5D curved glass at the front, and the rear has a metal design with dual cameras arranged vertically. There aren't a lot of changes on the visual front, and the specs are also near-identical.
 
 ## Key SPECS:
-| General        |                |
-| :------------- | :------------- |
-| Display        | 6.26 inch      |
-| Processor      | Octa Core      |
-| Front Camera   | 20MP + 2MP     |
-| Rear Camera    | 12MP + 5MP     |
-| Resolution     | 1080 x 2280 pxl|
-|RAM             | 4GB            |
-|OS              | Android        |
-|Skin            | MIUI           |
-|Storage         | 64 GB          |
-|Battery         | 4000mAh        |
+ Display        6.26 inch   
+ Processor      Octa Core  
+ Front Camera   20MP + 2MP     
+ Rear Camera    12MP + 5MP     
+ Resolution     1080 x 2280 pxl
+ RAM            4GB           
+ OS             Android        
+ Skin           MIUI           
+ Storage        64 GB          
+ Battery        4000mAh        
 
 * Other specs include *Bluetooth 5.0, Wi-Fi ac, IR sensor*. Things are unchanged on the software front as well, with the phone coming with a *MIUI build based on Android 8.1 Oreo*.
 
