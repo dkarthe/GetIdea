@@ -18,21 +18,21 @@ published: true
 
 # The Redmi Note 6 Pro is Xiaomi's first phone with four cameras.
 
-* Xiaomi has unveiled the successor to the *Redmi Note 5 Pro*. The phone is dubbed the Redmi Note 6 Pro, and shares a lot of the elements from its predecessor.
+* Xiaomi has unveiled the successor to the *Redmi Note 5 Pro*. The phone is dubbed the **Redmi Note 6 Pro**, and shares a lot of the elements from its predecessor.
 * There are a few key differences, however, starting with the screen. The phone now features a *6.26-inch 19:9 display with a notch*, and *Xiaomi is introducing dual cameras up front*.
 * The display is unchanged at *FHD+*, although the notch means the screen resolution is now 2280x1080. There's 2.5D curved glass at the front, and the rear has a metal design with dual cameras arranged vertically. There aren't a lot of changes on the visual front, and the specs are also near-identical.
 
 ## Key SPECS:
- Display        6.26 inch   
- Processor      Octa Core  
- Front Camera   20MP + 2MP     
- Rear Camera    12MP + 5MP     
- Resolution     1080 x 2280 pxl
- RAM            4GB           
- OS             Android        
- Skin           MIUI           
- Storage        64 GB          
- Battery        4000mAh        
+ * Display       - 6.26 inch   
+ * Processor     - Octa Core  
+ * Front Camera  - 20MP + 2MP     
+ * Rear Camera   - 12MP + 5MP     
+ * Resolution    - 1080 x 2280 pxl
+ * RAM           - 4GB           
+ * OS            - Android        
+ * Skin          - MIUI           
+ * Storage       - 64 GB          
+ * Battery       - 4000mAh        
 
 * Other specs include *Bluetooth 5.0, Wi-Fi ac, IR sensor*. Things are unchanged on the software front as well, with the phone coming with a *MIUI build based on Android 8.1 Oreo*.
 
