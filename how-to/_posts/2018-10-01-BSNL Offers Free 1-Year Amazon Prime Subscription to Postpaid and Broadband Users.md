@@ -11,6 +11,7 @@ published: true
 
 * By offering Amazon Prime subscription for one year, BSNL is taking on rival telcos such as Airtel, Vodafone, and Reliance Jio. Notably, the complimentary subscription offer is already available for subscribers to avail. The Amazon Prime subscription comes with access to Prime Video streaming that offers movies, TV shows, stand-up comedy, and Amazon Prime Original series. Additionally, the Prime membership also includes unlimited free and fast shipping via Amazon India site, alongside early access to deals and offers on the platform. They can also avail ad-free music streaming via Amazon Prime Music, and access to a range of ebooks via Prime Reading.
 ## How to claim BSNL's free 1-year Amazon Prime subscription offer
+
 1. Upgrade to a BSNL postpaid plan worth Rs. 399 or more or go for a landline broadband plan worth Rs. 745 or more.
 
 2. Go to the [BSNL website](https://portal2.bsnl.in/myportal/) and click on the special 'BSNL-Amazon offer' banner.
