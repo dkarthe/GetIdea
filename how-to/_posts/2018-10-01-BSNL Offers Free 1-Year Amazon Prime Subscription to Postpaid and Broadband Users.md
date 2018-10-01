@@ -13,9 +13,9 @@ published: true
 ## How to claim BSNL's free 1-year Amazon Prime subscription offer
 1. Upgrade to a BSNL postpaid plan worth Rs. 399 or more or go for a landline broadband plan worth Rs. 745 or more.
 
-2. Go to the BSNL website and click on the special 'BSNL-Amazon offer' banner.
+2. Go to the [BSNL website](https://portal2.bsnl.in/myportal/) and click on the special 'BSNL-Amazon offer' banner.
 
 3. Enter your eligible BSNL number details to generate an OTP. Further, validate and activate the offer using your Amazon login credentials.
 
-4. Download the Prime Video app on your smartphone/ smart TV/ FireTV or go to the Amazon Prime Video site to start streaming.
+4. Download the Prime Video app on your smartphone/ smart TV/ FireTV or go to the [Amazon Prime Video](https://www.primevideo.com/) site to start streaming.
 
