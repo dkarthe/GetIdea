@@ -1,9 +1,10 @@
 ---
 layout: post
-title: BSNL Offers Free 1-Year Amazon Prime Subscription to Postpaid and Broadband Users: How to Claim It
-description:
+title: BSNL Offers Free 1-Year Amazon Prime Subscription to Postpaid and Broadband Users & How to Claim It
+description: >
    Bharat Sanchar Nigam Limited (BSNL) is providing its postpaid and broadband subscribers a free 1-year subscription of Amazon Prime service.
 keyword: [bsnl,amazon prime]
+published: true
 ---
  ![bsnl](/assets/img/blog/bsnlamzn.jpg)
 * The state-run telecom operator on Monday announced the partnership with Amazon to offer an annual Prime subscription worth Rs. 999 for free to select postpaid and broadband subscribers. As a part of the new offer, BSNL subscribers across India with postpaid plans worth Rs. 399 or more and broadband landline plans worth Rs. 745 or more can avail one year of Amazon Prime membership at no additional cost.
