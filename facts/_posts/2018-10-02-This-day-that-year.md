@@ -8,7 +8,7 @@ keyword: [todays facts,today,history]
 author: [author1]
 
 ---
-# Facts and Events (01 October):
+# Facts and Events (02 October):
 
 ![Fact](/assets/img/blog/fact.jpg)
 
