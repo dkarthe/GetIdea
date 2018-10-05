@@ -8,6 +8,7 @@ published: true
 ---
 
 ![mobi](/assets/img/blog/mbkwk.jpg)
+
 * With fuel prices going over Rs 90 per liter for petrol in some places, it’s taking a big hit on people dependent on cars and motorbikes to get around or. While the government has reduced the prices a bit, there are ways to further reduce the load of the increased costs of petrol and diesel. This is courtesy of Paytm, PhonePe, and Mobikwik, which offer cashbacks on fuel spends when paying using the services.
 
 * We’ve taken a look at what’s on offer; read on to find out how to earn cashbacks up to Rs 7,500, and lighten the burden of increasing fuel prices, with the help of mobile wallet payments on Paytm, PhonePe, and Mobikwik.
