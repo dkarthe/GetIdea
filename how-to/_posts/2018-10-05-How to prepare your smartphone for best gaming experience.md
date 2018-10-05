@@ -8,6 +8,7 @@ published: true
 ---
 
 ![androidgame](/assets/img/blog/androidgame.jpg)
+
 * Game developers have also started making graphics intensive triple-A titles for mobile devices which also include the ported version of a few PC and console games. But there’s a drawback: not all the devices are powerful enough to provide smooth and lag-free gaming experience. Mid-range Android devices which are older than a year or two, they start showing their age while running some latest titles. In this how-to guide, we are going to tell you a few ways which can help you get the best out of your smartphone.
 ## 1. Close all the background apps and services
 Apps running in background consume the maximum amount of RAM of your smartphone, which eventually hampers the performance. Closing all apps might give your smartphone an extra boost for gaming as games require more RAM and other resources to run smoothly.
