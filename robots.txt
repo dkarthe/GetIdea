@@ -1,2 +1,9 @@
 Sitemap: https://getidea.me/sitemap.xml
 
+User-agent: Googlebot 
+Disallow: /tag/
+
+User-agent: * 
+Disallow: /author/kd/
+Disallow: /author/vishnu/
+Disallow: /page/
